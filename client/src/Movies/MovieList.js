@@ -48,6 +48,7 @@ function MovieDetails({ movie }) {
           {star}
         </div>
       ))}
+
     </div>
   );
 }
